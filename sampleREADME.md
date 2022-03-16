@@ -1,37 +1,22 @@
-<a href="http://fvcproductions.com"><img src="https://avatars1.githubusercontent.com/u/4284691?v=3&s=200" title="FVCproductions" alt="FVCproductions"></a>
+# Repository Title Goes Here
 
-<!-- [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) -->
+[![Frances Coronel](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](https://francescoronel.com)
 
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
-# Repository Title Goes Here
-
 > Subtitle or Short Description Goes Here
-
+>
 > ideally one sentence
-
+>
 > include terms/tags that can be searched
 
-**Badges will go here**
+Badges can go here (build status, issues (waffle.io maybe), devDependencies, npm package, coverage, slack, downloads, gitter chat, license, etc.)
 
-- build status
-- issues (waffle.io maybe)
-- devDependencies
-- npm package
-- coverage
-- slack
-- downloads
-- gitter chat
-- license
-- etc.
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger) [![Financial Contributors on Open Collective](https://opencollective.com/francescoronel/all/badge.svg?label=financial+contributors)](https://opencollective.com/francescoronel) [![GitHub Issues](https://img.shields.io/github/issues/francescoronel/apprenticeships.me.svg)](https://github.com/francescoronel/apprenticeships.me/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/francescoronel/apprenticeships.me.svg)](https://github.com/francescoronel/apprenticeships.me/pulls) [![MIT License](https://img.shields.io/github/license/francescoronel/apprenticeships.me.svg)](http://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/francescoronel/5) [![Netlify Status](https://api.netlify.com/api/v1/badges/bd2e661d-f9ac-493a-ac07-05429f092059/deploy-status)](https://app.netlify.com/sites/apprenticeships/deploys)
 
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![Code Climate](http://img.shields.io/codeclimate/github/badges/badgerbadgerbadger.svg?style=flat-square)](https://codeclimate.com/github/badges/badgerbadgerbadger) [![Github Issues](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/issues.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/issues) [![Pending Pull-Requests](http://githubbadges.herokuapp.com/badges/badgerbadgerbadger/pulls.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger/pulls) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
+- For more on these wonderful ~~badgers~~ badges, refer to [`badgerbadgerbadger`](http://badges.github.io/badgerbadgerbadger/)</a>.
 
-- For more on these wonderful ~~badgers~~ badges, refer to <a href="http://badges.github.io/badgerbadgerbadger/" target="_blank">`badgerbadgerbadger`</a>.
-
-***INSERT ANOTHER GRAPHIC HERE***
-
-[![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)]()
+![INSERT YOUR GRAPHIC HERE](http://i.imgur.com/dt8AUb6.png)
 
 - Most people will glance at your `README`, *maybe* star it, and leave
 - Ergo, people should understand instantly what your project is about based on your repo
@@ -44,35 +29,15 @@
 
 > GIF Tools
 
-- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
-- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
-
-**Recordit**
+Use [Recordit](http://recordit.co/) to create quicks screencasts of your desktop and export them as `GIF`s.
 
 ![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
 
-**ttystudio**
+For terminal sessions, there's [ttystudio](https://github.com/chjj/ttystudio) which also supports exporting `GIF`s.
 
 ![ttystudio GIF](https://raw.githubusercontent.com/chjj/ttystudio/master/img/example.gif)
 
----
-
-## Table of Contents (Optional)
-
-> If your `README` has a lot of info, section headers might be nice.
-
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
-
-
----
-
-## Example (Optional)
+## Example
 
 ```javascript
 // code away!
@@ -85,8 +50,6 @@ let generateProject = project => {
 };
 ```
 
----
-
 ## Installation
 
 - All the `code` required to get started
@@ -94,7 +57,7 @@ let generateProject = project => {
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/fvcproductions/SOMEREPO`
+- Clone this repo to your local machine using `https://github.com/FrancesCoronel/SOMEREPO`
 
 ### Setup
 
@@ -103,96 +66,72 @@ let generateProject = project => {
 > update and install this package first
 
 ```shell
-$ brew update
-$ brew install fvcproductions
+brew update
+brew install FrancesCoronel
 ```
 
 > now install npm and bower packages
 
 ```shell
-$ npm install
-$ bower install
+npm install
+bower install
 ```
 
-- For all the possible languages that support syntax highlithing on GitHub (which is basically all of them), refer <a href="https://github.com/github/linguist/blob/master/lib/linguist/languages.yml" target="_blank">here</a>.
-
----
+- For all the possible languages that support syntax highlighting on GitHub (which is basically all of them), refer [here](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
 
 ## Features
-## Usage (Optional)
-## Documentation (Optional)
-## Tests (Optional)
 
-- Going into more detail on code and technologies used
-- I utilized this nifty <a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a> for this sample `README`.
+Insert overview of key features
 
----
+## Usage
+
+Different options available
+
+## Documentation
+
+Key things to know about
+
+## Tests
+
+How to run tests
 
 ## Contributing
 
 > To get started...
 
-### Step 1
+1. 🍴 [Fork this repo](https://github.com/francescoronel/apprenticeships.me#fork-destination-box)
+2. 🔨 View the contributing guidelines at [CONTRIBUTING.md](.github/CONTRIBUTING.md)
+3. 👥 Add yourself as a contributor in this README
+4. 🔧 [Open a new pull request](https://github.com/francescoronel/apprenticeships.me/compare)
+5. 🎉 Get your pull request approved - success!
 
-- **Option 1**
-    - 🍴 Fork this repo!
-
-- **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
-
-### Step 2
-
-- **HACK AWAY!** 🔨🔨🔨
-
-### Step 3
-
-- 🔃 Create a new pull request using <a href="https://github.com/joanaz/HireDot2/compare/" target="_blank">`https://github.com/joanaz/HireDot2/compare/`</a>.
-
----
+Or just [create an issue](https://github.com/francescoronel/apprenticeships.me/issues/new/choose) - any little bit of help counts! 😊
 
 ## Team
 
 > Or Contributors/People
 
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
-| :---: |:---:| :---:|
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
-| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
+|                 <a href="https://francescoronel.com" target="_blank">**FrancesCoronel**</a>                 |                 <a href="https://francescoronel.com" target="_blank">**FrancesCoronel**</a>                 |                 <a href="https://francescoronel.com" target="_blank">**FrancesCoronel**</a>                 |
+| :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+| [![FrancesCoronel](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](https://francescoronel.com) | [![FrancesCoronel](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](https://francescoronel.com) | [![FrancesCoronel](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](https://francescoronel.com) |
+|         <a href="http://github.com/FrancesCoronel" target="_blank">`github.com/FrancesCoronel`</a>          |         <a href="http://github.com/FrancesCoronel" target="_blank">`github.com/FrancesCoronel`</a>          |         <a href="http://github.com/FrancesCoronel" target="_blank">`github.com/FrancesCoronel`</a>          |
 
 - You can just grab their GitHub profile image URL
 - You should probably resize their picture using `?s=200` at the end of the image URL.
 
----
-
 ## FAQ
 
 - **How do I do *specifically* so and so?**
-    - No problem! Just do this.
+  - No problem! Just do this.
 
----
+## Code of Conduct
 
-## Support
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-Reach out to me at one of the following places!
-
-- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
-- Insert more social links here.
-
----
-
-## Donations (Optional)
-
-- You could include a <a href="https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png" target="_blank">Gratipay</a> link as well.
-
-[![Support via Gratipay](https://cdn.rawgit.com/gratipay/gratipay-badge/2.3.0/dist/gratipay.png)](https://gratipay.com/fvcproductions/)
-
-
----
+More details can be found at this project's [code of conduct](https://github.com/FrancesCoronel/apprenticeships.me/blob/master/.github/CODE_OF_CONDUCT.md).
 
 ## License
 
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
+Copyright 2022 © [Frances Coronel](https://francescoronel.com)
