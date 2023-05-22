@@ -12,7 +12,7 @@
 
 Badges can go here (build status, issues (waffle.io maybe), devDependencies, npm package, coverage, slack, downloads, gitter chat, license, etc.)
 
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://coveralls.io/r/badges/badgerbadgerbadger) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger) [![Financial Contributors on Open Collective](https://opencollective.com/francescoronel/all/badge.svg?label=financial+contributors)](https://opencollective.com/francescoronel) [![GitHub Issues](https://img.shields.io/github/issues/francescoronel/apprenticeships.me.svg)](https://github.com/francescoronel/apprenticeships.me/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/francescoronel/apprenticeships.me.svg)](https://github.com/francescoronel/apprenticeships.me/pulls) [![MIT License](https://img.shields.io/github/license/francescoronel/apprenticeships.me.svg)](http://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/francescoronel/5) [![Netlify Status](https://api.netlify.com/api/v1/badges/bd2e661d-f9ac-493a-ac07-05429f092059/deploy-status)](https://app.netlify.com/sites/apprenticeships/deploys)
+[![Financial Contributors on Open Collective](https://opencollective.com/francescoronel/all/badge.svg?label=financial+contributors)](https://opencollective.com/francescoronel) [![GitHub Issues](https://img.shields.io/github/issues/francescoronel/apprenticeships.svg)](https://github.com/francescoronel/apprenticeships/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/francescoronel/apprenticeships.svg)](https://github.com/francescoronel/apprenticeships/pulls) [![MIT License](https://img.shields.io/github/license/francescoronel/apprenticeships.svg)](http://badges.mit-license.org) [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/francescoronel/5) [![Netlify Status](https://api.netlify.com/api/v1/badges/bd2e661d-f9ac-493a-ac07-05429f092059/deploy-status)](https://app.netlify.com/sites/apprenticeships/deploys)
 
 - For more on these wonderful ~~badgers~~ badges, refer to [`badgerbadgerbadger`](http://badges.github.io/badgerbadgerbadger/)</a>.
 
@@ -57,7 +57,7 @@ let generateProject = project => {
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/FrancesCoronel/SOMEREPO`
+- Clone this repo to your local machine using `https://github.com/FrancesCoronel/template-repo.git`
 
 ### Setup
 
@@ -77,7 +77,7 @@ npm install
 bower install
 ```
 
-- For all the possible languages that support syntax highlighting on GitHub (which is basically all of them), refer [here](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
+- For all the possible languages that support syntax highlighting on GitHub (which is basically all of them), check them out [here](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
 
 ## Features
 
@@ -99,13 +99,13 @@ How to run tests
 
 > To get started...
 
-1. 🍴 [Fork this repo](https://github.com/francescoronel/apprenticeships.me#fork-destination-box)
-2. 🔨 View the contributing guidelines at [CONTRIBUTING.md](.github/CONTRIBUTING.md)
+1. 🍴 [Fork this repo](https://github.com/francescoronel/template-repo/fork)
+2. 🔨 View the contributing guidelines at [CONTRIBUTING.md](https://github.com/francescoronel/template-repo/.github/CONTRIBUTING.md)
 3. 👥 Add yourself as a contributor in this README
-4. 🔧 [Open a new pull request](https://github.com/francescoronel/apprenticeships.me/compare)
+4. 🔧 [Open a new pull request](https://github.com/francescoronel/template-repo/compare)
 5. 🎉 Get your pull request approved - success!
 
-Or just [create an issue](https://github.com/francescoronel/apprenticeships.me/issues/new/choose) - any little bit of help counts! 😊
+Or just [create an issue](https://github.com/francescoronel/template-repo/issues/new/choose) - any little bit of help counts! 😊
 
 ## Team
 
@@ -128,10 +128,10 @@ Or just [create an issue](https://github.com/francescoronel/apprenticeships.me/i
 
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
-More details can be found at this project's [code of conduct](https://github.com/FrancesCoronel/apprenticeships.me/blob/master/.github/CODE_OF_CONDUCT.md).
+More details can be found at this project's [code of conduct](https://github.com/FrancesCoronel/template-repo/blob/master/.github/CODE_OF_CONDUCT.md).
 
 ## License
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+[![MIT License](https://img.shields.io/github/license/francescoronel/apprenticeships.svg)](http://badges.mit-license.org)
 
-Copyright 2022 © [Frances Coronel](https://francescoronel.com)
+Copyright © [Frances Coronel](https://francescoronel.com)
